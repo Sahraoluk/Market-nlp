@@ -1,0 +1,6 @@
+{
+  "name": "GurmePazar - NLP Akıllı Mutfak & Market",
+  "description": "Gensim Word2Vec ve Türkçe NLP algoritmalarıyla yanlış yazımları düzelten, 'Bunu aramak istemiştiniz' önerileri ve arama geçmişine dayalı kişiselleştirilmiş filtreler sunan akıllı market deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
